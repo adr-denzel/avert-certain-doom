@@ -2,6 +2,6 @@
 
 Project using variables, various data types, if statements, loops and nested structures.
 
-I created a simple game with Pygame. I wanted to apply my knowledge to new technologies and environments, and teach myself to adapt to work with code libraries that are novel to me. I also wanted to my ability to understand and modify code that someone else has written.
+A simple game. I applied my knowledge to a new technology and environment, and taught myself to adapt to working with a codebase I did not write. I also got to experiment with an all new library Pygame!
 
 Anyway, avoid the sprites to avert certain doom!

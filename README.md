@@ -1,4 +1,4 @@
-# PyGameDemo
+# AvertCertainDoom
 
 Project using variables, various data types, if statements, loops and nested structures.
 
